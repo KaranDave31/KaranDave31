@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karandave31&label=Profile%20views&color=0e75b6&style=flat" alt="karandave31" /> </p>
 
-- 🔭 I’m currently working on **Shield-GPT**
+- 🔭 I’m currently working on ** **
 
-- 🌱 I’m currently learning **Java and node JS**
+- 🌱 I’m currently learning ** **
 
 - 📫 How to reach me **karanbdave007@gmail.com**
 
