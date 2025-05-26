@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MYSELF**
 
-- 🌱 I’m currently learning **TensorFlow and LLMs**
+- 🌱 I’m currently learning **LANGCHAIN**
 
 - 📫 How to reach me **karanbdave007@gmail.com**
 
